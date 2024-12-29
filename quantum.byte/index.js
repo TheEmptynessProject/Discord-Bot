@@ -67,7 +67,7 @@ setInterval(function() {
 }, 7200000) */
 //async function mainMongo() {
 //    await connection.connect();
-//    const Database = connection.db("EmptynessAssistant");
+//    const Database = connection.db("quantum.byte");
 //    data = Database.collection('ServerData');
 //    shopvals = Database.collection('ShopVals')
 //    return console.log('Connected to Database');
