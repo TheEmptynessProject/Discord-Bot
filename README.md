@@ -1,6 +1,7 @@
 # Discord Bots
 
 This repository contains two unique and feature-rich Discord bots: **i.am.prime** and **quantum.byte**. Below is a breakdown of their commands and capabilities:
+Sadly both outdated due to the discord.js updates, still runnable with the correct version
 
 ## i.am.prime Bot
 A versatile bot that allows you to interact with emotes, games, server management, and more. Some key features include:
@@ -45,8 +46,6 @@ A multi-purpose bot with features for unboxing games, music, and more. Here are 
 - **Code Evaluation**:
   - `Js` & `Py`: Evaluate JavaScript and Python code (Use with caution, as there's no security in place).
 - **Admin Role**: `GiveMe`: Try to obtain the admin role if it exists (Caution: potentially dangerous).
-
-**Note**: The bot includes MongoDB integration and plays music, providing a wide range of features, including interactive games and tools for managing servers.
 
 ---
 
