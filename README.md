@@ -4,7 +4,7 @@ This repository contains two unique and feature-rich Discord bots: **i.am.prime*
 Sadly both outdated due to the discord.js updates, still runnable with the correct version
 
 ## i.am.prime Bot
-A versatile bot that allows you to interact with emotes, games, server management, and more. Some key features include:
+Allows you to interact with emotes, games, server management, and more. Some key features include:
 
 ### Key Features:
 - **Emote Commands**:
@@ -30,7 +30,7 @@ A versatile bot that allows you to interact with emotes, games, server managemen
   - `Test`: Placeholder for testing commands.
 
 ## quantum.byte Bot
-A multi-purpose bot with features for unboxing games, music, and more. Here are some of its capabilities:
+Features for unboxing games, music, and more. Here are some of its capabilities:
 
 ### Key Features:
 - **Unboxing Game**: MongoDB integration for unboxing items, related to CSGO skins.
